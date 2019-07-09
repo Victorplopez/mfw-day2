@@ -1,0 +1,37 @@
+.container-fluid{
+    background-color: yellow;
+}
+
+.row-md-12 {
+    outline-width: 1em;
+}
+.col-md-12.header{
+    padding: 3em;
+    background-color: blue;
+}
+
+.col-md-12.nav{
+    padding: .75em;
+    background-color: green;
+}
+
+.col-md-9.content{
+    padding: 6em;
+    background-color: red;
+}
+
+.col-md-3.aside {
+    padding: 6em;
+    background-color: turquoise;
+}
+
+.col-xs-3.promo1, .col-xs-3.promo2, .col-xs-3.promo3, .col-xs-3.promo4{
+    padding: 3em;
+    background-color: orange;
+}
+
+.col-md-12.footer {
+    padding: .75em;
+    color: white;
+    background-color:black;
+}
